@@ -4,3 +4,7 @@ Simple package to take an image and number of clusters and apply the kmeans algo
 
 # Usage
 `python3 main.py -i IMG_9258.JPG -n 5`
+
+# Example
+![Comparison](comparison.jpg)
+
